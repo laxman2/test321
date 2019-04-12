@@ -1,0 +1,9 @@
+
+{
+    "/visitor/list": "/visitor",
+    "/visitor/get/:id": "/visitor/:id",
+    "/visitor/create": "/visitor",
+    "/visitor/update/:id": "/visitor/:id",
+    "/visitor/delete/:id": "/visitor/:id"
+  }
+  
